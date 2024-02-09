@@ -1,0 +1,94 @@
+
+  /* Header styles */
+  header {
+    background-color: #0b0a0a;
+    color: #161515;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    max-height: 40px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin-left: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  nav a:hover {
+    background-color: #666;
+  }
+  
+  /* Main content styles */
+  main {
+    background-color: #f5eded;
+    color: #0b0b0b;
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  /* Footer styles */
+
+  .footer {
+    background-color: #333333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  HomePage {
+    background-color: #f5eded;
+    color: #0b0b0b;
+    padding: 20px; /* Add padding to create space */
+    width: 80%; /* Adjust width as desired */
+    margin: 0 auto; /* Center the content horizontally */
+  }
+  .fab.fa-linkedin {
+    color: #0077B5; /* LinkedIn brand color */
+    margin-right: 5px; /* Add space between icon and text */
+  }.content-container {
+    max-height: 100vh;
+    overflow-y: auto;
+    padding: 20px;
+  }
+  
+  .content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2, h3 {
+    color: #333;
+  }
+  
+  h3 {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  li strong {
+    color: #007bff; /* Highlight color */
+  }
